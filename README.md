@@ -6,8 +6,9 @@ Go to https://colab.research.google.com.
 
 Click File --> Open --> Github  
 
-Enter this URL: tiny.cc/CAN_TVB
+Enter this URL: https://github.com/amandakeasson/CAN_TVB_Workshop
 
-choose the `modelling_resting_state.ipynb` notebook.
+Choose the `modelling_resting_state.ipynb` notebook  
+
 
 
